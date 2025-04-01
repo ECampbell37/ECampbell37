@@ -42,18 +42,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ECampbell37&show_icons=true&theme=radical" alt="Elijah's GitHub Stats" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ECampbell37&theme=radical" alt="Elijah's GitHub Streak" />
-</p>
-
----
-
-
-### 📊 Most Used Languages
-
-<p align="left">
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ECampbell37&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 ---
+
 
 ### 🔗 Let's Connect
 
