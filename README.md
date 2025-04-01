@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Elijah 👋</h1>
+<h1 align="center">Hello, I'm Elijah! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+%2F+ML+Enthusiast;Full-Stack+Developer;Always+Building+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+%2F+ML+Enthusiast;Full-Stack+Developer;Always+Building+Something+New;Believing+in+a+Bright+Future" alt="Typing SVG" />
 </p>
 
 ---
@@ -40,8 +40,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ECampbell37&show_icons=true&theme=radical" alt="Elijah's GitHub Stats" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ECampbell37&layout=compact&theme=radical" alt="Most Used Languages" /> -->
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ECampbell37&theme=radical" alt="Elijah's GitHub Streak" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ECampbell37&theme=radical" alt="Elijah's GitHub Streak" />
+</p>
+
+---
+
+
+### 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ECampbell37&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 ---
@@ -50,3 +58,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elijah-campbell-ihim/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white)](https://elijahcampbellihimportfolio.com)
+
+---
