@@ -1,14 +1,14 @@
 <h1 align="center">Hello, I'm Elijah! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+%2F+ML+Enthusiast;Full-Stack+Developer;Always+Building+Something+New;Believing+in+a+Bright+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Graduate;AI+%2F+ML+Enthusiast;Full-Stack+Developer;Always+Building+Something+New;Believing+in+a+Brighter+Future" alt="Typing SVG" />
 </p>
 
 ---
 
-🎓 **Senior CS Student** | 💡 **Aspiring AI Engineer** | 🧠 **Passionate about GenAI & Web Apps**
+🎓 **CS Graduate** | 💡 **Aspiring AI Engineer** | 🧠 **Passionate about GenAI & Web Apps**
 
-🔭 **Current Project:** AI Tutor Web App built with **LangChain**, **Python**, and **Next.js**  
+🔭 **Highlighted Project:** AI Tutor Web App built with **LangChain**, **Python**, and **Next.js**  
 🌱 Always exploring the intersection of **AI + Education**  
 📚 Building tech that’s **simple**, **smart**, and **human-centered**  
 
@@ -16,7 +16,8 @@
 
 ### 🛠️ Languages & Tools
 
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-01765F?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -32,7 +33,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 ---
 
