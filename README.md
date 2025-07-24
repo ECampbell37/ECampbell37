@@ -6,7 +6,7 @@
 
 ---
 
-🎓 **CS Graduate** | 💡 **Aspiring AI Engineer** | 🧠 **Passionate about GenAI & Web Apps**
+🎓 **CS Graduate** | 💡 **AI & Full-Stack Developer** | 🧠 **Passionate about GenAI & Web Apps**
 
 🔭 **Highlighted Project:** AI Tutor Web App built with **LangChain**, **Python**, and **Next.js**  
 🌱 Always exploring the intersection of **AI + Education**  
