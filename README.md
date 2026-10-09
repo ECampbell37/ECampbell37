@@ -6,11 +6,11 @@
 
 ---
 
-🎓 **CS Graduate** | 💡 **AI & Full-Stack Developer** | 🧠 **Passionate about GenAI & Web Apps**
+🎓 **CS Graduate** | 💡 **AI & Full-Stack Developer** | 🧠 **Passionate about LLM Applications**
 
 🔭 **Highlighted Project:** AI Tutor Web App built with **LangChain**, **Python**, and **Next.js**  
-🌱 Always exploring the intersection of **AI + Education**  
-📚 Building tech that’s **simple**, **smart**, and **human-centered**  
+🌱 Always exploring the potential for **AI in Education**  
+📚 Building tech that’s **simple**, **helpful**, and **encouraging**  
 
 ---
 
